@@ -1,0 +1,22 @@
+LCD graphic parameters // generated with bitmap2LCD V1.9G
+29/10/2011 11:26:39
+---------------------------------------------------------
+
+Paging Scheme vertical downwards
+Most significant bit last
+8 bit output format
+Monochrome mode
+Origin corner top left
+
+C Header File : face.h
+
+Bitmap Source file : face.bmp
+
+Data table created : face
+Original X and Y coordinates
+True origin enabled
+Origin  X =0 Y =0
+Opposite corner X =0 Y =0
+Width = 84
+Height = 48
+504Bytes
